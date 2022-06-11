@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Łukasz Dutka: Learning Diary (ŁD:LD)`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Łukasz Dutka`,
+      summary: `who lives and works in Wrocław, building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    // social: {
+    //   twitter: `lukaszdutka`,
+    // },
   },
   plugins: [
     `gatsby-plugin-image`,
